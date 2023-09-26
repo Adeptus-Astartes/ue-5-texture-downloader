@@ -28,7 +28,7 @@ void UTextureDownloaderComponent::BeginPlay()
 
 	// ...
 	
-    DownloadTextureFromURL("https://cdn.icon-icons.com/icons2/2389/PNG/512/unreal_engine_logo_icon_144771.png");
+    DownloadTextureFromURL("https://w7.pngwing.com/pngs/453/640/png-transparent-html-computer-icons-white-computer-software-unreal-engine-4-logo-angle-white-rectangle-thumbnail.png");
     
 }
 
