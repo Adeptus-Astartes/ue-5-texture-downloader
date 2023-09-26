@@ -10,6 +10,9 @@ public class texture_downloader : ModuleRules
 	
 		PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine", "InputCore" });
 
+        // Add Http and ImageWrapper modules
+        PublicDependencyModuleNames.AddRange(new string[] { "HTTP", "ImageWrapper" });
+        
 		PrivateDependencyModuleNames.AddRange(new string[] {  });
 
 		// Uncomment if you are using Slate UI

@@ -1,4 +1,0 @@
-Target dependency graph (2 targets)
-texture_downloader_Build in texture_downloader, no dependencies
-texture_downloader in texture_downloader, depends on:
-texture_downloader_Build in texture_downloader (explicit)
