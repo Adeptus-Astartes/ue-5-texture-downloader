@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"/Users/vadymtihonyuk/Documents/Unreal Projects/ue-5-texture-downloader/texture_downloader/Source/texture_downloader/texture_downloader.Build.cs",
+		"/Users/vadymtihonyuk/Documents/Unreal Projects/ue-5-texture-downloader/texture_downloader/Source/texture_downloader.Target.cs",
+		"/Users/vadymtihonyuk/Documents/Unreal Projects/ue-5-texture-downloader/texture_downloader/Source/texture_downloaderEditor.Target.cs"
+	],
+	"EngineVersion": "5.2.0"
+}
